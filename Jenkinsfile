@@ -1,4 +1,4 @@
-@Library('mpl') _
+@Library('mpl2') _
 
 // Use default master pipeline
 MPLPipeline {
