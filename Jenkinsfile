@@ -7,4 +7,5 @@ MPLPipeline {
   agent_label = 'mavey'                     // Set agent label
   modules.Build.tool_version = 'Maven 2' // Change tool for build stage
   modules.Test = null                    // Disable Test stage
+  modules.Build = null                   //Disable Build Module
 }
